@@ -1,0 +1,9 @@
+2019-02-18 09:42:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "HUONEKALU" not found; SQL statement:
+INSERT INTO Huonekalu (nimi) VALUES (?); DROP TABLE Huonekalu; --- [42102-197]
+2019-02-18 09:43:39 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "HUONEKALU" not found; SQL statement:
+SELECT * FROM Huonekalu [42102-197]
+2019-02-18 09:45:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "HUONEKALU" not found; SQL statement:
+SELECT * FROM Huonekalu [42102-197]
